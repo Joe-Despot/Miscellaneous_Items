@@ -1,0 +1,10 @@
+Ranjivosti specifične za Web aplikacije: - https://owasp.org/www-project-top-ten/
+Baza javno dostupnih exploita: - https://www.exploit-db.com/
+Common Vulnerability Enumeration (CVE): - https://nvd.nist.gov/
+Cheat sheet of SQL injections: - http://www.owasp.org/index.php/SQL_Injection_Prevention_Cheat_Sheet
+Cheat sheet of cryptographic attack defenses: - https://www.owasp.org/index.php/Cryptographic_Storage_Cheat_Sheet
+Guide to the .htaccess file(bonus configuration of server): - http://www.htaccess-guide.com/
+
+  
+
+
